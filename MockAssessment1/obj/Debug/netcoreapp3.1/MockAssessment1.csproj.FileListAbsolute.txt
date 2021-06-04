@@ -1,0 +1,13 @@
+E:\SchoolRepos\MockAssessment1\MockAssessment1\bin\Debug\netcoreapp3.1\MockAssessment1.exe
+E:\SchoolRepos\MockAssessment1\MockAssessment1\bin\Debug\netcoreapp3.1\MockAssessment1.deps.json
+E:\SchoolRepos\MockAssessment1\MockAssessment1\bin\Debug\netcoreapp3.1\MockAssessment1.runtimeconfig.json
+E:\SchoolRepos\MockAssessment1\MockAssessment1\bin\Debug\netcoreapp3.1\MockAssessment1.runtimeconfig.dev.json
+E:\SchoolRepos\MockAssessment1\MockAssessment1\bin\Debug\netcoreapp3.1\MockAssessment1.dll
+E:\SchoolRepos\MockAssessment1\MockAssessment1\bin\Debug\netcoreapp3.1\MockAssessment1.pdb
+E:\SchoolRepos\MockAssessment1\MockAssessment1\obj\Debug\netcoreapp3.1\MockAssessment1.csproj.AssemblyReference.cache
+E:\SchoolRepos\MockAssessment1\MockAssessment1\obj\Debug\netcoreapp3.1\MockAssessment1.AssemblyInfoInputs.cache
+E:\SchoolRepos\MockAssessment1\MockAssessment1\obj\Debug\netcoreapp3.1\MockAssessment1.AssemblyInfo.cs
+E:\SchoolRepos\MockAssessment1\MockAssessment1\obj\Debug\netcoreapp3.1\MockAssessment1.csproj.CoreCompileInputs.cache
+E:\SchoolRepos\MockAssessment1\MockAssessment1\obj\Debug\netcoreapp3.1\MockAssessment1.dll
+E:\SchoolRepos\MockAssessment1\MockAssessment1\obj\Debug\netcoreapp3.1\MockAssessment1.pdb
+E:\SchoolRepos\MockAssessment1\MockAssessment1\obj\Debug\netcoreapp3.1\MockAssessment1.genruntimeconfig.cache
